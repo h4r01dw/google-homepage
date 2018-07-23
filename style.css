@@ -1,0 +1,51 @@
+.search {
+	text-align: center;
+	margin-top: 130px;
+}
+
+input {
+	width: 500px;
+	height: 30px;
+	border-width: 1px;
+	border-color: rgba(0, 0, 0, 0.2);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.buttons {
+	padding-top: 20px;
+	width: auto;
+}
+
+.mic {
+	width: 10px;
+}
+
+button{
+	width: 150px;
+	height: 30px;
+	border: none;
+	color: grey;
+}
+
+
+a {
+	padding: 10px;
+	text-decoration: none;
+	color: black;
+}
+
+ul {
+	list-style-type: none;
+	display: inline;
+}
+
+li {
+	margin-top: 20px;
+}
+
+.appslogo {
+	width: 20px;
+	height: 20px;
+}
